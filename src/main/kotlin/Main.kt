@@ -5,18 +5,6 @@ import org.lwjgl.opengl.GL
 import org.lwjgl.opengl.GL11.*
 import org.lwjgl.system.MemoryUtil.NULL
 
-class MyAss() {
-    var regex = 0
-    var bitchplease = 0
-
-    init {
-        regex = 4
-        bitchplease += 40
-
-
-    }
-
-}
 
 object Main {
     @JvmStatic
